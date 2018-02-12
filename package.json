@@ -1,0 +1,33 @@
+{
+  "name": "botbuilder-sample-adaptivecards",
+  "version": "1.0.0",
+  "description": "Bot Builder Sample - Adaptive Cards",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Microsoft Corp.",
+  "license": "MIT",
+  "keywords": [
+    "botbuilder",
+    "bots",
+    "chatbots",
+    "botbuilder-samples",
+    "adaptive-cards"
+  ],
+  "bugs": {
+    "url": "https://github.com/Microsoft/BotBuilder-Samples/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Microsoft/BotBuilder-Samples.git"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "botbuilder": "^3.14.0",
+    "dotenv-extended": "^2.0.1",
+    "lodash": "^4.17.5",
+    "restify": "^4.3.2",
+    "store": "^2.0.12",
+    "util": "^0.10.3"
+  }
+}
